@@ -6,9 +6,9 @@ I'm a self-taught AI and backend engineer—and former founder—with a backgrou
 Both are live—feel free to check them out!
 
 #### 👽 Astroulette  
-A real-time chat app where users interact with AI-generated characters from across the galaxy — engineered end-to-end with a Python backend, async FastAPI routes, SQLite3, and a responsive Svelte5 frontend.  
+A real-time chat app where users interact with AI-generated characters from across the galaxy — with a Python/FastAPI backend, SQLite3, and a responsive SvelteKit 2/Svelte 5 frontend.  
 👉 [Make an intergalactic friend](https://astroulette.fly.dev/)
 
 #### 🏛️ The Ravensfield Collection  
-A fully-automated fiction blog that generates eerie, lore-rich stories inspired by an imaginary art collection — powered by a custom Go backend with prompt chaining, fallback logic, and seamless Ghost CMS integration.  
+A fully-automated fiction blog that generates eerie, lore-rich stories inspired by an imaginary art collection — using a Go backend with prompt chaining, fallback logic, and a custom Ghost CMS theme.  
 👉 [Visit the museum of weird and wonderful](https://www.ravensfield.art/)
